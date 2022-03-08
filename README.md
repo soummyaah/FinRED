@@ -5,10 +5,16 @@ Accepted as poster in The 2nd Workshop on Financial Technology on the Web (FinWe
 
 This repo contains the link to the data for the paper.
 
+### Data Sources
+
+Earning Call Transcipts (ECT):
+ECT have been scraped from seekingalpha.com. 
+ECT data link: https://drive.google.com/drive/folders/1-MLGFMRxWXDSp6Io9z9kwDKjB2XI-OQq?usp=sharing
+
 ### Dataset
 Data drive link: https://drive.google.com/drive/folders/1-k5H79NkqzLkkF4KcndqxAPojnBbmqa4?usp=sharing
 
-Train, Dev and Test splits have been provided for the FinRED dataset. 
+Train, Dev and Test splits have been provided for the FinRED dataset. It also has a relations.txt file containing the list of relations.
 
 ### Publication
 
