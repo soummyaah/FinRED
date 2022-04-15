@@ -16,6 +16,10 @@ Data drive link: https://drive.google.com/drive/folders/1-k5H79NkqzLkkF4KcndqxAP
 
 Train, Dev and Test splits have been provided for the FinRED dataset. It also has a relations.txt file containing the list of relations.
 
+### Presentation
+You can find slides presented during WWW'22 on the paper here: https://docs.google.com/presentation/d/19QFgA1XfQPf4Fx2FsuFjWxr7-MJwvo8zKLHCSbcN-8Y/edit?usp=sharing
+The video associated with the presentation can be found here: https://drive.google.com/file/d/1pFNzJRyVvjq_UrIfiyEzL4BGvUDHLJdP/view?usp=sharing
+
 ### Publication
 
 If you use the source code or data from this work, please cite our paper:
